@@ -1,5 +1,9 @@
 # Import Export Hub
 
+## Overview
+
+Import Export Hub is a modern web platform designed to simplify global trade for users. It allows users to browse international products, manage exports, and import items directly into their personal “My Imports” section with just one click. With a clean and responsive interface, real-time data synchronization, and secure user authentication, this platform ensures a seamless experience for both exporters and importers. Ideal for businesses and individuals looking to explore, manage, and streamline import-export operations efficiently.
+
 ## Project Description
 
 **Import Export Hub** is a modern web platform where users can manage their exports, browse global products, and import any product into their personal "My Imports" section with a single click.  
@@ -35,3 +39,20 @@ The website features a clean UI, real-time sync, and secure user data management
 - **Carousel/Slider:** react-slick (v0.31.0), slick-carousel (v1.8.1)
 - **Authentication & Database:** Firebase (v12.5.0)
 - **Alerts/Notifications:** SweetAlert2 (v11.26.3)
+
+```json
+"dependencies": {
+  "@tailwindcss/vite": "^4.1.13",
+  "axios": "^1.11.0",
+  "firebase": "^12.2.1",
+  "lottie-react": "^2.4.1",
+  "motion": "^12.23.12",
+  "react": "^19.1.1",
+  "react-dom": "^19.1.1",
+  "react-icons": "^5.5.0",
+  "react-router": "^7.8.2",
+  "react-router-dom": "^7.8.2",
+  "sweetalert2": "^11.23.0",
+  "tailwindcss": "^4.1.13"
+}
+```
