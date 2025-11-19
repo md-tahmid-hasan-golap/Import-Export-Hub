@@ -1,6 +1,6 @@
 # Import Export Hub
 
-![Import Export Hub Screenshot](https://i.postimg.cc/xxxxxxx/screenshot.png)  
+![Import Export Hub Screenshot](https://i.postimg.cc/7ZQgRq9p/Screenshot-2025-11-19-161625.png)  
 _Home page screenshot of Import Export Hub_
 
 ---
