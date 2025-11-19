@@ -16,6 +16,14 @@ The website features a clean UI, real-time sync, and secure user data management
 
 ---
 
+## Install dependencies
+
+npm install
+
+## Start the development server
+
+npm run dev
+
 ## Features
 
 - **Responsive Home Page:** Banner/slider and latest 6 products display
